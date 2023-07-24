@@ -33,5 +33,6 @@ hs_err_pid*
 /security/target/
 /support/target/
 /mvn/
+target
 mvnw.cmd
 /.mvn
